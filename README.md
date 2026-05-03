@@ -1,7 +1,6 @@
 <h1 align="left">
   Studying Java Spring
   <img src="https://github.com/user-attachments/assets/9705bdff-b786-4a16-bd2c-498ea325cc12" alt="Spring_Boot svg" width="30"/>
-  <img src="https://github.com/user-attachments/assets/1c9c584c-1d92-43e5-ad41-6389bafd28b3" width="30"/>
 </h1>
 
 Examples and notes on **Spring Framework** and **Spring Boot**.
